@@ -1,3 +1,16 @@
+/*
+4a QUESTÃO) Escreva um programa que cadastre escolas (nome, endereço). 
+Para cada escola, você pode adicionar vários alunos (cpf, nome). 
+Crie uma classe para cada uma dessas entidades (escola e aluno).  
+Toda vez que precisar usar uma estrutura de dados, utilize uma lista duplamente encadeada.
+
+Crie um menu com as seguintes opções:
+1)adicionar escola; 
+2) imprimir todas as escolas cadastradas; 
+3)cadastrar aluno em uma determinada escola; 
+4) imprimir todos os alunos de uma escola; 
+5) imprimir todos os alunos de todas as escolas
+*/
 #include <iostream>
 
 using namespace std;
